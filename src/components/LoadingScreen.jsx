@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const LoadingScreen = () => {
   return (
-    <div className='background-spinner'>
+    <div className="background-spinner">
       <div className="lds-spinner">
         <div></div>
         <div></div>
